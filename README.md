@@ -14,7 +14,7 @@ Certifique-se de ter o Docker e o Docker Compose instalados em sua máquina.
 1. Clone este repositório:
 
     ```bash
-    git clone https://github.com/seu-usuario/seu-repositorio.git
+    git clone https://github.com/vitor-jotave/docker-php-v2.git
     cd seu-repositorio
     ```
 
