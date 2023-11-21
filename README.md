@@ -15,7 +15,7 @@ Certifique-se de ter o Docker e o Docker Compose instalados em sua máquina.
 
     ```bash
     git clone https://github.com/vitor-jotave/docker-php-v2.git
-    cd docker-php-v2
+    cd docker-php-v2/docker
     ```
 
 2. Execute o Docker Compose para construir e iniciar os serviços:
