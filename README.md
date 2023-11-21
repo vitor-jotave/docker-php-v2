@@ -57,9 +57,9 @@ root /var/www/{diretório do index.php};
 
 ## Comandos úteis do Docker Compose
 
-- Parar os serviços: `docker-compose down`
-- Ver logs dos serviços: `docker-compose logs -f`
-- Visualizar status dos serviços: `docker-compose ps`
+- Parar os serviços: `docker compose down`
+- Ver logs dos serviços: `docker compose logs -f`
+- Visualizar status dos serviços: `docker compose ps`
 
 ## Observações
 
